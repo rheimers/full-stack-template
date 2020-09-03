@@ -1,0 +1,25 @@
+{{
+    "name": "full-stack-template",
+    "private": true,
+    "version": "1.0.0",
+    "description": "Express server with CRA, ESLint, Git Hooks and Prettier",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/lmachens/full-stack-template.git"
+    },
+    "keywords": [],
+    "author": "Regine Heimers",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/lmachens/full-stack-template/issues"
+    },
+    "homepage": "https://github.com/lmachens/full-stack-template#readme",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
